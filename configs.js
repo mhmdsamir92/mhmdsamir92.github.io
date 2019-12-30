@@ -2,16 +2,16 @@ module.exports = {
   postsPerPage: 10,
   primary: 'rgb(36, 41, 46)',
   siteMetadata: {
-    title: 'Bloggy',
-    description: 'Blog of mine',
+    title: 'YNWA',
+    description: 'My Blog',
     author: {
-      name: 'Zeyad Etman',
+      name: 'Mohammed Samir',
       avatar: 'https://pbs.twimg.com/profile_images/1166663145118732288/BtHLImve_400x400.jpg',
       title: 'Software Engineer',
-      twitter: 'zeyadetman',
-      github: 'zeyadetman',
-      facebook: 'zeyadetman',
-      linkedIn: 'zeyadetman',
+      twitter: 'mhmdsamir92',
+      github: 'mhmdsamir92',
+      facebook: '',
+      linkedIn: 'mhmdsamir92',
     },
   },
   theme: {
